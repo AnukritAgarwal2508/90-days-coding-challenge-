@@ -20,7 +20,8 @@ Thank you for joining me on this adventure. Let's dive into the world of coding,
 
 And the magical journey begins :- 
 
-DAY - 1 (4/03/24) Today i learned about matrix in C++ their operations and how to pass a multidimensional array to a function along with i also revised some bit operators in C++ .
+DAY - 1 (4/03/24) Today i learned about matrix in C++ their operations and how to pass a multidimensional array to a function along with i also revised some bit operators in C++
+
 DAY - 2 (5/03/24) Today i learned about boundary traversal and finding transpose of a matrix along with i revised brian kerningham algorithm . 
 
 
