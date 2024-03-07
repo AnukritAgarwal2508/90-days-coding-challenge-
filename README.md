@@ -26,6 +26,8 @@ DAY - 2 (5/03/24) Today i learned about boundary traversal and finding transpose
 
 DAY - 3 (6/03/24) Today i learned about turning a matrix from 90 anticlockwise direction and spiral traversal of a matrix along with i also revisesd some topics in bit magic like , isKth bit set or not , Count Set Bits , Brian Kerningham Algorithm , Lookup table , finding a number if it is power of 2 or not .
 
+DAY - 4 (7/03/24) Today i learned about searching a element efficiently in a sorted row and column wise matrix , i also revised spiral travesal of a matrix , in bit manipulation i revised how to find odd occuring elements , once and twice , then i learned about finding power sets using bitwise operators 
+
 
 
 
